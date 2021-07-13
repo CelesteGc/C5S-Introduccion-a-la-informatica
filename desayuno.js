@@ -1,4 +1,7 @@
-let nombre = "Juan"
-let comida = "Desayuno"
-let galletitas = "Pepitas"
-let infusion ="Cafe con leche"
+let nombre
+let comida
+let galletitas
+let infusion
+
+let pedido = {Nombre:"Juan", comida:"Desayuno", galletitas:"Pepitas", infusion: "Cafe con leche"}
+
