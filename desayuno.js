@@ -1,4 +1,4 @@
-let nombre = "Juan"
-let comida = "Desayuno"
-let galletitas = "Pepitas"
-let infusion ="Cafe con leche"
+let nombre = "Sophia"
+let comida = "Almuerzo"
+let galletitas = "Oreo"
+let infusion ="Te"
